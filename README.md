@@ -1,23 +1,34 @@
-Hello👋
-Im Currently a Cybersecuirty Student at Meropolitan State University of Denver(Expected Grad Date: Spring 2028) Feel free to connect with me and browse my projects!
+# Hello 👋
 
-📄 Certifications:
-[CompTIA A+](https://www.credly.com/badges/d401bc6d-7a9b-41ae-afa7-acd8f503d2d0/public_url)
-[CompTIA Network+](https://www.credly.com/badges/ef7c03de-a181-4a36-926a-e71890e15d4e/public_url)
-[CompTIA Security+](https://www.credly.com/badges/dd995f7d-f8aa-41bd-8341-933abf6a8987/public_url)
-[CompTIA CySA+](https://www.credly.com/badges/cc015ed8-8e7c-4b73-8350-616bf7bf3432/public_url)
-[Blue Team Level 1](https://www.credly.com/badges/2a71f3ce-bc7f-46d6-b1cf-dc499aba58fb/public_url)
+I'm currently a Cybersecurity student at Metropolitan State University of Denver (expected graduation: Spring 2028). Feel free to connect with me and browse my projects!
 
-👩‍💻 Currently Working On:
+---
 
-CompTIA Linux+
+## 📄 Certifications
 
+- [CompTIA A+](https://www.credly.com/badges/d401bc6d-7a9b-41ae-afa7-acd8f503d2d0/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/ef7c03de-a181-4a36-926a-e71890e15d4e/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/dd995f7d-f8aa-41bd-8341-933abf6a8987/public_url)
+- [CompTIA CySA+](https://www.credly.com/badges/cc015ed8-8e7c-4b73-8350-616bf7bf3432/public_url)
+- [Blue Team Level 1](https://www.credly.com/badges/2a71f3ce-bc7f-46d6-b1cf-dc499aba58fb/public_url)
 
-🖥️ Cybersecurity Projects:
+---
 
+## 👨‍💻 Currently Working On
 
-🌐 Where to Find Me:
-[LinkedIn](www.linkedin.com/in/george-bull-a16432334)
+- CompTIA Linux+
+
+---
+
+## 🖥️ Cybersecurity Projects
+
+- Coming soon!
+
+---
+
+## 🌐 Where to Find Me
+
+- [LinkedIn](https://www.linkedin.com/in/george-bull-a16432334)
 
 
 <!--
