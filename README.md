@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm currently a Cybersecurity student at Metropolitan State University of Denver (expected graduation: Spring 2028). Feel free to connect with me and browse my projects!
+I'm currently a Cybersecurity student at Metropolitan State University of Denver with a Minor in Computer Science and Computer Information Systems (expected graduation: Spring 2028). Feel free to connect with me and browse my projects!
 
 ---
 
