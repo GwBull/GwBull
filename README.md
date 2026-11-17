@@ -17,6 +17,7 @@ I'm currently a Cybersecurity student at Metropolitan State University of Denver
 ## 👨‍💻 Currently Working On
 
 - CompTIA Linux+
+- Personal-Python-Projects
 
 ---
 
