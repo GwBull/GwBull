@@ -23,7 +23,7 @@ I'm currently a Cybersecurity student at Metropolitan State University of Denver
 
 ## 🖥️ Cybersecurity Projects
 
-- Coming soon!
+- [Personal Python Projects](https://github.com/GwBull/Personal-Python-Projects-)
 
 ---
 
